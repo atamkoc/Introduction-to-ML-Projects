@@ -18,3 +18,5 @@ Our goals for this assignment were:
 Dataset can also be found in this repo under "English Dataset.csv"
 
 Our observations and other additional comments can be found under .ipynb files for each part of the project
+
+Other details can be found in the assignment manual which is also attached to this repository
